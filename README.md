@@ -4,7 +4,7 @@ Welcome to the repository of P2P-RS, i.e., the algorithm presented by Filippo Bi
 
 Source Code 
 ----------
-The source code of P2P-RS is available upon request. If you are interested, feel free to contact me at `filippo[dot]bistaffa[at]iiia[dot]csic[dot]es`.
+The source code of P2P-RS is available upon request. If you are interested, feel free to contact me at `filippo[dot]bistaffa[at]gmail[dot]com`.
 
 Real-world Data 
 ----------
